@@ -7320,5 +7320,46 @@ button.close {
     display: none !important;
   }
 }
+body {
+  background: #FFBE00 url(../images/bg_w.png) repeat;
+  background-size: 320px 320px;
+}
+
+p {
+  color: #332F2D;
+}
+
+.bn-intro {
+  margin-top: 48px;
+  width: auto;
+}
+
+.bn-logo {
+  display: block;
+  margin: 12px auto 12px;
+  padding: 24px;
+  background-color: #fff;
+  border-radius: 50%;
+  width: 40%;
+  max-width: 160px;
+  opacity: 0.96;
+}
+
+.bn-tagline {
+  text-align: center;
+  font-weight: 300;
+  font-size: 1.25em;
+}
+
+.invision {
+  display: block;
+  position: relative;
+  margin: 12px auto;
+  max-width: 438px;
+}
+
+.footer {
+  text-align: center;
+}
 
 /*# sourceMappingURL=style.css.map */
